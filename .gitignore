@@ -1,1 +1,5 @@
 *.pyc
+
+# Setuptools output
+dist
+logic.egg-info
